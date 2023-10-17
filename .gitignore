@@ -1,4 +1,5 @@
 # Exclude .NET Core build folders from Git
 bin/*
 obj/*
+.vscode/*
 
